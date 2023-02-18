@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieTask</string>
+    <string name="movies">Movies</string>
+    <string name="no_movies_to_show">No movies to show</string>
+    <string name="sorry">Sorry !!</string>
+    <string name="sortby">SortBy</string>
+    <string name="year">Year</string>
+    <string name="rate">Rate</string>
+</resources>
